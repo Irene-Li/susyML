@@ -1,7 +1,7 @@
 # susyML
 Unsupervised machine learning for SUSY signal detection
 
-SOM: 
+SOM: \\
 SOM_theano.py: class file for a SOM object 
 SOM_run.py: the script used to train a SOM 
 SOM_test.py: the script used to test a SOM 
