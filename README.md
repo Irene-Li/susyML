@@ -2,9 +2,9 @@
 Unsupervised machine learning for SUSY signal detection
 
 1. SOM: 
-..* SOM_theano.py: class file for a SOM object 
-..* SOM_run.py: the script used to train a SOM 
-..* SOM_test.py: the script used to test a SOM 
+  * SOM_theano.py: class file for a SOM object 
+  * SOM_run.py: the script used to train a SOM 
+  * SOM_test.py: the script used to test a SOM 
 
 2. NADE: 
 ..* OrderlessNADE.py: the wrap for an OrderlessNADE object. "__main__" method has code for training and testing
