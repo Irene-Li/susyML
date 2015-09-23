@@ -1,0 +1,49 @@
+sumcut:   0	ptcut:   0	mrcut:   0	r2cut: 0.050000 
+label: all 
+mr_bins:  50	r2_bins:  50 
+exclusion: 0.519104 
+discovery: 1.341268 
+ 
+sumcut:   0	ptcut:   0	mrcut:   0	r2cut: 0.050000 
+label: Dataset 
+mr_bins:  50	r2_bins:  50 
+exclusion: 0.407081 
+discovery: 1.042208 
+ 
+sumcut:   0	ptcut:   0	mrcut:   0	r2cut: 0.100000 
+label: all 
+mr_bins:  50	r2_bins:  50 
+exclusion: 1.182236 
+discovery: 3.044609 
+ 
+sumcut:   0	ptcut:   0	mrcut:   0	r2cut: 0.100000 
+label: Dataset 
+mr_bins:  50	r2_bins:  50 
+exclusion: 0.584117 
+discovery: 1.500300 
+
+# For this one the trend is different. Interesting in itself but not the subject of my project
+sumcut:   0	ptcut:  65	mrcut:   0	r2cut: 0.000000 
+label: all 
+mr_bins:  50	r2_bins:  50 
+exclusion: 0.513103 
+discovery: 1.322264 
+ 
+sumcut:   0	ptcut:  65	mrcut:   0	r2cut: 0.000000 
+label: Dataset 
+mr_bins:  50	r2_bins:  50 
+exclusion: 0.638128 
+discovery: 1.652330 
+ 
+sumcut:   0	ptcut:   0	mrcut:   0	r2cut: 0.000000 
+label: all 
+mr_bins:  50	r2_bins:  50 
+exclusion: 0.513103 
+discovery: 1.328266 
+ 
+sumcut:   0	ptcut:   0	mrcut:   0	r2cut: 0.000000 
+label: Dataset 
+mr_bins:  50	r2_bins:  50 
+exclusion: 0.888178 
+discovery: 2.267453 
+ 
